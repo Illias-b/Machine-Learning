@@ -3,7 +3,7 @@
 Welcome to the Machine Learning repository, a comprehensive resource dedicated to exploring and understanding different facets of machine learning. This repository is structured to provide insights, code examples, and discussions on various machine learning paradigms, including Classification, Regression, and Neural Networks. Below is a brief overview of each sub-section within this repository.
 
 ## [Classification](https://github.com/Illias-b/Classification.git) 
-
+[Loan Approval Prediction](https://github.com/Illias-b/Loan-Approval-Prediction.git)
 Classification is a supervised learning approach that categorizes data into predefined classes or labels. It is commonly applied in applications such as email filtering, speech recognition, and loan approval prediction. In this section, you will find resources and examples that demonstrate how to implement classification algorithms, including Decision Trees, Support Vector Machines, and Random Forests, to solve real-world problems.
 
 ## Regression
