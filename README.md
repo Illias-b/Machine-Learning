@@ -7,8 +7,7 @@ Welcome to the Machine Learning repository, a comprehensive resource dedicated t
 A focused project on predicting loan approval outcomes using machine learning models, aimed at enhancing decision-making processes for financial institutions.
 
 ## Regression
-
-Pending...
+[House Price Prediction](https://github.com/Illias-b/House-Price-Prediction.git) - A comprehensive analysis on predicting house prices per unit area, leveraging diverse machine learning techniques to uncover the influence of proximity to amenities and property characteristics on real estate values.
 
 ## Neural Networks
 
